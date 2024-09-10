@@ -21,7 +21,7 @@ To get started with this project, you will need to clone the repository to your 
 ## Prerequisites
 Before running the code, make sure you have the following libraries installed:
 
-- Python 3.x
+- Python 
 - OpenCV (cv2)
 - NumPy
 
@@ -52,6 +52,7 @@ Laplacian filters are applied to the preprocessed images to detect edges.
 
 ## Result
 The resulting image is a cartoon-style representation of the input image with enhanced edges and reduced color variation.
+![Result](Cartoonimage.png)
 
 ## Contributing
 Contributions to this project are welcome. You can contribute by adding new features, optimizing code, or improving documentation.
